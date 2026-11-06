@@ -1,0 +1,6 @@
+{
+  "name": "telegram-notify",
+  "description": "Шлёт уведомления в Telegram, когда Claude Code закончил ход, упал с ошибкой API, просит доступ или задаёт вопрос.",
+  "version": "1.0.0",
+  "hooks": "./hooks/hooks.json"
+}

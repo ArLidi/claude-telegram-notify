@@ -1,0 +1,14 @@
+{
+  "name": "telegram-notify",
+  "owner": {
+    "name": "ArLidi"
+  },
+  "plugins": [
+    {
+      "name": "telegram-notify",
+      "source": "./",
+      "description": "Шлёт уведомления в Telegram, когда Claude Code закончил ход, упал с ошибкой API, просит доступ или задаёт вопрос.",
+      "version": "1.0.0"
+    }
+  ]
+}

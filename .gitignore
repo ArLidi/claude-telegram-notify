@@ -1,0 +1,4 @@
+# Конфиг с токеном живёт в ~/.claude/telegram-notify.json и НИКОГДА не коммитится.
+# Эта строка — на случай, если кто-то положит его рядом с плагином.
+telegram-notify.json
+telegram-notify.log
